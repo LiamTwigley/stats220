@@ -3,6 +3,14 @@
 
 *This repo will contain all of my work and projects I have done in Sem 1 2023 STATS 220*
 
-### ** The repository will include:**
+### The repository will include:
 1. R code, projects
 2. Markdown code
+3. Memes and other coded creations made in R studios
+
+**Here is a list of classes I am taking along side STATS 220**
+* Stats 201
+* Psych 202
+* BUSAN 100G
+
+
