@@ -17,4 +17,8 @@
 
 [Bob Ross](https://www.youtube.com/watch?v=lLWEXRAnQd0)
 
+And a picture of the city I am from
+
+[Jakarta](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuk.trip.com%2Ftravel-guide%2Fdestination%2Fcentral-jakarta-1457454%2F&psig=AOvVaw0CAXjMYxw2bkAlNiU7qobV&ust=1678497775972000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDrrtCZ0P0CFQAAAAAdAAAAABAs)
+
 
