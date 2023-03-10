@@ -13,7 +13,7 @@
 * Psych 202
 * BUSAN 100G
 
-####Here is a link to a Bob Ross video to help calm the nerves after all the strenous coding 
+###Here is a link to a Bob Ross video to help calm the nerves after all the strenous coding 
 [Bob Ross]https://www.youtube.com/watch?v=lLWEXRAnQd0)
 
 
